@@ -1,0 +1,1 @@
+angular.module('bagApp', ['ngRoute', 'appRoutes', 'MainCtrl']);
