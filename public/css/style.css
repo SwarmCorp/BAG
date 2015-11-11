@@ -451,7 +451,6 @@ a.link_rotate:focus span:before {
 #testimonials {
 	position:relative;
 	padding:20px 0 20px;
-	background-image: url(../images/testimonials_bg.jpg);
 	background-size:cover;
 }
 #testimonials .container {
@@ -465,7 +464,6 @@ a.link_rotate:focus span:before {
 	top:0;
 	width:100%;
 	height:100%;
-	background:url(../images/testimonials_fill.png);
 }
 
 
@@ -855,7 +853,6 @@ a.service_item.right {
 #contact .contact_parallax {
 	position:relative;
 	padding:100px 0;
-	background-image: url(../images/contact_bg.jpg);
 	background-size:cover;
 }
 .contact_parallax_fill {
@@ -865,7 +862,6 @@ a.service_item.right {
 	top:0;
 	width:100%;
 	height:100%;
-	background:url(../images/contact_parallax_fill.png);
 }
 #contact .contact_parallax .container {
 	position:relative;
